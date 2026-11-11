@@ -469,9 +469,8 @@ tail -50 ~/Library/Logs/Antigravity/main.log
 датой проверки и пояснением, что именно откуда взято, — в
 [docs/sources.md](docs/sources.md).
 
-Все проекты в списке проверены вручную: бесплатные — отдельно, платные и
-freemium — отдельно. Ничего с пробным периодом и последующей оплатой в
-рекомендациях нет.
+Все проекты в списке проверены вручную и **полностью бесплатны**: без
+пробного периода, без платных ключей и без обязательных доплат.
 
 Ключевые источники:
 
@@ -480,18 +479,14 @@ freemium — отдельно. Ничего с пробным периодом �
 - [QNIX-Dev/eligibility-antigravity-patcher](https://github.com/QNIX-Dev/eligibility-antigravity-patcher)
   — сигнатуры и каркас (MIT);
 - [vezlin1/antigravity-bypass-russia](https://github.com/vezlin1/antigravity-bypass-russia)
-  — IDE JS (MIT);
+  — IDE JS (MIT), полностью бесплатный;
 - [confeden/Antigravity](https://github.com/confeden/Antigravity) — идеи
-  rename/asar (бесплатно, но ключ выдаётся в Telegram `@nova_txt`);
+  rename/asar (бесплатный ключ выдаётся в Telegram `@nova_txt`);
 - зеркала AvenCores:
   [sara-dev12](https://github.com/sara-dev12/open-antigravity-patcher),
   [top-master](https://github.com/top-master/ai-antigravity-patcher),
   [NoRoute2Koi](https://github.com/NoRoute2Koi/open-antigravity-patcher-nix)
   (GPL-3.0).
-
-Отдельно: [loysger/Antigravity](https://github.com/loysger/Antigravity) в список
-**не входит**. Это платный шлюз: тестовый ключ, затем тарифы PRO / X3 / X5 /
-ULTRA через Telegram-бота. Мы такие схемы не рекомендуем.
 
 Если кто-то продаёт доступ к этим материалам — он нарушает лицензии и
 занимается барыжничеством. См. [docs/anti-resale.md](docs/anti-resale.md).

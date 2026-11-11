@@ -22,8 +22,7 @@ print_anti_resale_banner() {
   https://github.com/confeden/Antigravity
 
   Полный список: docs/sources.md
-  Все проекты в списке проверены: только бесплатные, без
-  пробных периодов и доплат.
+  Все проекты в списке проверены: только бесплатные.
   Лицензия: PolyForm Noncommercial 1.0.0
 ============================================================
 EOF
@@ -56,25 +55,12 @@ write_free_notice() {
     https://github.com/top-master/ai-antigravity-patcher
     https://github.com/NoRoute2Koi/open-antigravity-patcher-nix
 
-  Другие свободные реализации:
-    https://github.com/kakajan/antigravity-patch
-    https://github.com/Quenary/antigravity-patcher
-    https://github.com/BenSouchet/antigravity-patcher
-    https://github.com/RendeRR/antigravity-patcher
-    https://github.com/yhan-sun/antigravity-patcher
-    https://github.com/mhosseini-dev/antigravity-patch-macos
-
   Полный список с лицензиями:
     https://github.com/Korabusha/antigravity-intel-mac/blob/main/docs/sources.md
 
-Важно: все источники выше — бесплатные целиком. Среди них нет проектов
-с «бесплатным тестом» и последующей оплатой. Если вам продали «тестовый
-доступ» или «ключ на 3 дня», а потом попросили денег — это не наш проект
-и не наш список. Это freemium-обман.
-
-Отдельно предупреждаем: платные «шлюзы» и «клиенты без VPN», которые
-продают ключи через Telegram-ботов (например, тарифы PRO/X3/X5/ULTRA),
-к бесплатным источникам не относятся. Их мы не рекомендуем.
+Все источники выше — бесплатные целиком, без теста и доплаты.
+Если с вас просят деньги за доступ к ним — вас обманывают, а продавец
+занимается барыжничеством.
 
 Лицензия проекта: PolyForm Noncommercial 1.0.0.
 Коммерческое использование и продажа не разрешены.
